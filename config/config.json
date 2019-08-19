@@ -1,0 +1,8 @@
+{
+    "test": {
+        "PORT": 5000
+    },
+    "development": {
+        "PORT": 3000
+    }
+}
