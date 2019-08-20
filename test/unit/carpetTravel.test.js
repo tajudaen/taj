@@ -9,7 +9,7 @@ describe('Carpet Travel', () => {
         const magic = [3, 2, 5, 4];
         const dist = [2, 3, 4, 2];
 
-        const result = carpetTravel(magic, dist, 0);
+        const result = carpetTravel(magic, dist, 3);
 
         console.log(result);
     });

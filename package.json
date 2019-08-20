@@ -8,6 +8,9 @@
     "start": "node app.js",
     "test-watch": "nodemon --exec \"npm test\""
   },
+  "engines": {
+    "node": "10.x"
+  },
   "author": "Giwa Tajudeen",
   "license": "ISC",
   "dependencies": {
